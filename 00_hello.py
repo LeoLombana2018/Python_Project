@@ -8,3 +8,4 @@ print(type("hola yo"))
 print(type(3))
 print(type(1.5))
 print(type(True))
+
