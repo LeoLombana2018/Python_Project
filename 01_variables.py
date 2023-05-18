@@ -27,3 +27,6 @@ print()
 #Variables en una sola linea
 name, surname, age = "Leonardo", "Lombana", 37
 print("Mi nombre es:" ,name, "Mi apellido es:" ,surname, "Mi edad es:" ,age)
+
+my_new_variable = "Leonardo Lombana"
+print(my_new_variable)
