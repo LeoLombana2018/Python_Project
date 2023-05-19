@@ -30,3 +30,8 @@ print("Mi nombre es:" ,name, "Mi apellido es:" ,surname, "Mi edad es:" ,age)
 
 my_new_variable = "Leonardo Lombana"
 print(my_new_variable)
+
+name = input("cual es tu nombre: ")
+surname = input("Cual es tu apellido: ")
+
+print(name + " "+ surname)
